@@ -12,6 +12,14 @@ Author URI: https://about.me/xaver
 
 Disables images getting served from the Unsplash CDN on the frontend.
 
+If you suffer from slow page speed caused by the Unsplash CDN you can bybass it by enableing this plugin.
+
+It's simple enable and forget it.
+
+There are no options or pages added to your WordPress admin
+
+> All trademarks are property of their respective owners.
+
 == Installation ==
 
 1. Upload the entire `unsplash-disable-cdn` folder to the `/wp-content/plugins/` directory
@@ -23,4 +31,3 @@ Disables images getting served from the Unsplash CDN on the frontend.
 * initial release
 
 
- > All trademarks are property of their respective owners

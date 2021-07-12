@@ -2,7 +2,7 @@
 Contributors: everpress
 Tags: unsplash, media library, cdn, hotlink
 Requires at least: 4.9
-Tested up to: 5.5
+Tested up to: 5.8
 Stable tag: 1.0
 License: GPLv2 or later
 Author: EverPress

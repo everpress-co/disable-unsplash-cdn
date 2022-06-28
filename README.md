@@ -5,9 +5,7 @@ Tags: unsplash, media library, cdn, hotlink
 Requires at least: 4.9  
 Tested up to: 6.0  
 Stable tag: 1.0  
-License: GPLv2 or later  
-Author: EverPress  
-Author URI: https://about.me/xaver
+License: GPLv2 or later
 
 ## Description
 

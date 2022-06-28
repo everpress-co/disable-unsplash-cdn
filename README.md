@@ -4,7 +4,7 @@ Contributors: everpress, xaverb
 Tags: unsplash, media library, cdn, hotlink  
 Requires at least: 4.9  
 Tested up to: 6.0  
-Stable tag: 1.0  
+Stable tag: 1.1  
 License: GPLv2 or later
 
 ## Description
@@ -25,6 +25,10 @@ There are no options or pages added to your WordPress admin
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 ## Changelog
+
+### 1.1
+
+-   no more yoda condition
 
 ### 1.0
 
